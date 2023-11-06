@@ -7,10 +7,10 @@ Our job is to create a model which predicts whether a given news is real or fake
 ## Data Gathering
 ## Data Preprocessing :
 Here we perform some operation on data
-A. Tokenization
-B. Lower Case
-C. Stopwords
-D. Lemmatization / Stemming
+    A. Tokenization
+    B. Lower Case
+    C. Stopwords
+    D. Lemmatization / Stemming
 Vectorization (Convert Text data into the Vector):
 A. Bag Of Words (CountVectorizer)
 B. TF-IDF
