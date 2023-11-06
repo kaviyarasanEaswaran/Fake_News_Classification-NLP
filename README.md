@@ -23,7 +23,10 @@ B. Confusition Matrix
 C. Classification Report
 ## Model Deployment
 Prediction on Client Data
-Tech Stack Used
+##Tech Stack Used
 Python
 NLP
 Machine Learning Algorithms
+
+## Front End:
+![image](https://github.com/kaviyarasanEaswaran/Fake_News_Classification-NLP/assets/129485308/e06d1013-5df9-4fee-a1aa-fbb6c98a87e3)
